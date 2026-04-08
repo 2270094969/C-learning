@@ -4,7 +4,7 @@ int main()
     double n[100];
     double x,sum=0;
     int i=0,j=0;
-    scanf("%lf",&x);
+    scanf("%lf",x);
     while(x!=-1){
 n[i]=x;
 i=i+1;
